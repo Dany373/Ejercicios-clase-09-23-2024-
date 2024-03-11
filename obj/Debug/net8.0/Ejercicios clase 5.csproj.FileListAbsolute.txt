@@ -1,0 +1,14 @@
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\bin\Debug\net8.0\Ejercicios clase 5.exe
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\bin\Debug\net8.0\Ejercicios clase 5.deps.json
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\bin\Debug\net8.0\Ejercicios clase 5.runtimeconfig.json
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\bin\Debug\net8.0\Ejercicios clase 5.dll
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\bin\Debug\net8.0\Ejercicios clase 5.pdb
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\Ejercicios clase 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\Ejercicios clase 5.AssemblyInfoInputs.cache
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\Ejercicios clase 5.AssemblyInfo.cs
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\Ejercicios clase 5.csproj.CoreCompileInputs.cache
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\Ejercicios clase 5.dll
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\refint\Ejercicios clase 5.dll
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\Ejercicios clase 5.pdb
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\Ejercicios clase 5.genruntimeconfig.cache
+C:\Users\LINAJE ESCOGIDO\source\repos\Ejercicios clase 5\Ejercicios clase 5\obj\Debug\net8.0\ref\Ejercicios clase 5.dll
